@@ -1,9 +1,13 @@
 Leonardo Banhara Wisch
+=======
 João Miguel Trevisam
+=======
 Matheus Caetano Marques
-<<<<<<< HEAD
+=======
 Felipe Rodrigues do Espirito santo
 =======
 Thiago Marques Paixão
->>>>>>> 026db904276d0d577016cbadc56acabcd42016a3
+=======
 Felipe Rodrigues do Espirito santo
+=======
+
